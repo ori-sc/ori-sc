@@ -5,7 +5,7 @@
 ██╔══██║██║  ░░░██║░░░██╔══██║██╔══╝░░██╔══██╗██╔══╝░░╚═╝
 ██║░░██║██║  ░░░██║░░░██║░░██║███████╗██║░░██║███████╗██╗
 ╚═╝░░╚═╝╚═╝  ░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚══════╝╚═╝
-My name is Oriol and I'm a Tech Team Lead Platform Engineering
+I'm Oriol working as a Tech Team Lead Platform Engineer
 ```
 
 
