@@ -5,7 +5,7 @@
 ██╔══██║██║  ░░░██║░░░██╔══██║██╔══╝░░██╔══██╗██╔══╝░░╚═╝
 ██║░░██║██║  ░░░██║░░░██║░░██║███████╗██║░░██║███████╗██╗
 ╚═╝░░╚═╝╚═╝  ░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚══════╝╚═╝
-I'm Oriol, working as Tech Team Lead Platform Engineer.
+I'm Oriol and I work as Tech Team Lead Platform Engineer.
 Based in UK (Made in Barcelona)
 ```
 
